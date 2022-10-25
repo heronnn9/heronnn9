@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berke Akgün</h1>
+<h1 align="center">Hi, I'm Berke Akgün</h1>
 <h3 align="center">JR.Frontend Developer</h3>
 
 - 🔭 I’m currently working on **By MySelf**
