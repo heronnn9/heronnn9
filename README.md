@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Berke Akgün</h1>
 <h3 align="center">JR.Frontend Developer</h3>
 
-- 🔭 I’m currently working on **By MySelf**
+- 🔭 I’m currently working on **By Myself**
 
 - 🌱 I’m currently learning **Redux**
 
