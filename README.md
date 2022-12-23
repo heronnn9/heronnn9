@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **I'm open the buisness offer**
 
 - 📫 How to reach me **berkeakgun9@gmail.com**
 
