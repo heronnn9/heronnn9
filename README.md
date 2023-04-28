@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Berke Akgün</h1>
 <h3 align="center">JR.Frontend Developer</h3>
 
-- 🔭 I’m currently working on **By Myself**
+- 🔭 I’m currently working on ** ? **
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vite.js**
 
 - 💬 Ask me about **I'm open the buisness offer**
 
