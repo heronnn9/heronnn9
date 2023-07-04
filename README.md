@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ** ? **
 
-- 🌱 I’m currently learning **Vite.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **I'm open the buisness offer**
 
