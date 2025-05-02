@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Berke Akgün</h1>
-<h3 align="center">JR.Frontend Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 - 🔭 I’m currently working on Ledbim 
 
-- 🌱 I’m currently learning **RTK Query**
+- 🌱 I’m currently learning **.NET**
 
 - 💬 Ask me about **I'm open the buisness offer**
 
